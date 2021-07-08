@@ -1,0 +1,22 @@
+
+STRAPI : Création API REST facilement en javascript (un peu comme wordpress).
+
+JAMSTACK : Architecture de développement web intéressante.
+
+QUASAR : Framework Vue.Js pour creer des applications, notamment mobile.
+
+TABNINE sur Intellij : Auto complétion du code sur Intellij.
+
+VITE : build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
+
+    A dev server that provides rich feature enhancements over native ES modules, for example extremely fast Hot Module Replacement (HMR).
+
+    A build command that bundles your code with Rollup, pre-configured to output highly optimized static assets for production.
+    
+GRIDSOME : A Jamstack framework for Vue.js
+
+VUE NATIVE : The Progressive JavaScript Framework For Mobile Apps.
+
+GRAPHQL : Langage de requêtes et un environnement d'exécution
+
+NUXT : Framework Vue.Js pour front-end et back-end
